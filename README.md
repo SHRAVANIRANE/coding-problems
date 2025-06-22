@@ -35,7 +35,9 @@ hackerrank-solutions/
 
 ---
 
-## ✍️ Author : **Shravani Rane**  [GitHub Profile](https://github.com/shravanirane)
+## ✍️ Author :
+ **Shravani Rane** 
+ [GitHub Profile](https://github.com/shravanirane)
 
 ---
 
