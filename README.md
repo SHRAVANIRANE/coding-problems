@@ -25,6 +25,7 @@ hackerrank-solutions/
 │ └── README.md
 </pre>
 
+---
 
 ## 🛠️ Language Used
 
@@ -51,7 +52,5 @@ Contributions are welcome and appreciated!
 ## 📌 Note
 
 These solutions are meant for educational and learning purposes only. Do not copy directly during live tests or interviews.
-
----
 
 ⭐ If you found this helpful, consider giving the repo a **star**! 
