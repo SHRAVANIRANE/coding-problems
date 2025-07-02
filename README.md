@@ -33,13 +33,6 @@ hackerrank-solutions/
 
 > You can also contribute your solutions in other languages like C++, Java, JavaScript, etc.
 
-
-## ✍️ Author :
- **Shravani Rane** 
- [GitHub Profile](https://github.com/shravanirane)
-
-
-
 ## 🤝 Contributing
 <pre>
 -Fork this repo
