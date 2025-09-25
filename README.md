@@ -1,37 +1,24 @@
-# 🚀 HackerRank Solutions
+# Coding Problems , Problem-Breakdowns and Solutions
 
-[![Language](https://img.shields.io/badge/language-Python%203-blue?logo=python)](https://www.python.org/)
-[![Platform](https://img.shields.io/badge/Platform-HackerRank-1f425f?logo=hackerrank)](https://www.hackerrank.com/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
-A curated collection of coding problem solutions from [HackerRank](https://www.hackerrank.com/), written in clean Python with detailed explanations and structured folders.
+A curated collection of coding problem solutions written in clean Python/Java/Cpp with detailed explanations and structured folders.
 
 ---
 
 ## 📚 What's Inside
 
-- ✅ Solved problems from HackerRank assessments and challenges
+- ✅ Solved problems assessments and challenges
 - 🧠 Clear explanations and examples
 - 📂 One folder per problem with its own code and `README.md`
-- 🧼 Clean, readable, and maintainable Python code
-
----
-
-## 📁 Folder Structure
-<pre>
-hackerrank-solutions/
-├── dominant-cell/
-│ ├── dominant_cell.py
-│ └── README.md
-</pre>
+- 🧼 Clean, readable, and maintainable code
 
 ---
 
 ## 🛠️ Language Used
 
 - **Python 3**
+- **Java**
 
-> You can also contribute your solutions in other languages like C++, Java, JavaScript, etc.
+> You can also contribute your solutions in other languages like C++, JavaScript, etc.
 
 ## 🤝 Contributing
 <pre>
