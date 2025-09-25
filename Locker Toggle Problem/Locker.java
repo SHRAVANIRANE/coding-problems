@@ -1,3 +1,4 @@
+//Brute Force , Time Complexity: O(n²) , Space Complexity : O(n)
 class Locker {
     public static void main(String[] args) {
         int n = 100;
@@ -19,3 +20,17 @@ class Locker {
         }
     }
 }
+
+//Optimized , Time Complexity: O(√n) , Space Complexity : O(1)
+class Locker {
+    public static void main(String[] args) {
+        int n = 100;
+        int sqrtN = (int)Math.sqrt(n);
+
+        System.out.print("Open lockers: ");
+        for (int i = 1; i <= sqrtN; i++) {
+            System.out.print(i * i + " ");
+        }
+    }
+}
+
